@@ -1,0 +1,2 @@
+# por
+padle ocr
